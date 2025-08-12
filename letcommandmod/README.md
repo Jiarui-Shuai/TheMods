@@ -1,1 +1,1 @@
-# [下载](https://github.com/Jiarui-Shuai/TheMods/raw/refs/heads/main/letcommandmod/build/libs/template-mod-1.0.0.jar)
+# [下载](https://github.com/Jiarui-Shuai/TheMods/raw/refs/heads/main/letcommandmod/build/libs/template-mod-1.0.0.jar) 但推荐在地址栏输入https://github.com/Jiarui-Shuai/TheMods/raw/refs/heads/main/letcommandmod/build/libs/template-mod-1.0.0.jar
