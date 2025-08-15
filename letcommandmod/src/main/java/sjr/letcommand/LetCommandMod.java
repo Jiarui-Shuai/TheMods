@@ -89,6 +89,10 @@ public class LetCommandMod implements ModInitializer {
                 .withPosition(entity.getPos())
                 .withRotation(rotation); // 使用Vec2f对象
             
+            if (!command.startsWith("/")) {
+                command = "/" + command;
+            }
+
             try {
                 ctx.getSource().getServer().getCommandManager().executeWithPrefix(
                     commandSource,
